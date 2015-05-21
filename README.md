@@ -1,9 +1,9 @@
 # new-repo
 new "repo" test
 
-## Heading test
-### Next heading test
-Now, will be list:
+## Head test
+### Next head test
+Now, will be the list:
 * first item,
 * second item,
 * next item.
